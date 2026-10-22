@@ -206,10 +206,6 @@ strings memdump.raw | grep -i "58.64"                                 # phishing
 
 `executable.*.exe` and `process.*.dmp` are **real malicious samples** kept for reproducibility. Do not run them. Analyze them only inside an isolated virtual machine, and expect antivirus software to flag them when you clone the repository.
 
-## Author
-
-**Asif Alif**, PhD student, Computer Science, University of Wyoming
-Research interests: post-quantum cryptography, AI security, network and IoT security, and digital forensics.
 
 ## License
 
